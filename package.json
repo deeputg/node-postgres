@@ -1,0 +1,14 @@
+{
+  "name": "postgres-server",
+  "version": "1.0.0",
+  "description": "Study project node + postgres",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deeputg | deeputg1992@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
