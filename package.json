@@ -4,11 +4,14 @@
   "description": "Study project node + postgres",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "deeputg | deeputg1992@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^7.17.0"
   }
 }
